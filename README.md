@@ -14,7 +14,7 @@
 ### 🎯 What I Bring to Tech
 - 🔭 Currently studying **Computer Science** with a focus on web development
 - 🌱 Bringing a **hospitality mindset** into tech — problem-solving, teamwork, and user experience are my strengths
-- 🧑‍🍳 **Certified Chef** accredited by the **American Hotel & Lodging Educational Institute**
+- 🧑‍🍳 **Certified Chef** through the Swiss Hotel School and an accredited server by the **American Hotel & Lodging Educational Institute**
 - ⚡ **Fun fact**: I've worked at world-class hotels like **The Broadmoor (USA)** and **La Petite Ferme (Franschhoek)**
 - 🧠 Learning to build polished front-end interfaces with **React, Tailwind CSS, Shadcn/UI**
 
