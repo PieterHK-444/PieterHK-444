@@ -41,7 +41,7 @@
         <p align="center">
           <strong>🎯 Goal:</strong> Showcase my projects and resume with clean, accessible UI<br/>
           <strong>🔧 Features:</strong> Dark mode toggle, animated transitions, project showcase cards, contact form<br/>
-          <strong>📅 Status:</strong> In development – pushing new commits weekly!
+          <strong>📅 Status:</strong> In development
         </p>
       </td>
     </tr>
