@@ -39,8 +39,8 @@
           </a>
         </div>
         <p align="center">
-          <strong>🎯 Goal:</strong> Showcase my projects and resume with clean, accessible UI<br/>
-          <strong>🔧 Features:</strong> Dark mode toggle, animated transitions, project showcase cards, contact form<br/>
+          <strong>🎯 Goal:</strong> A Notion Clone <br/>
+          <strong>🔧 Features:</strong> Dark mode toggle, Interlinked notes, daily verses, verse auto completion<br/>
           <strong>📅 Status:</strong> In development
         </p>
       </td>
